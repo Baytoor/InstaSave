@@ -6,3 +6,6 @@ To save the avatar you have to open Instagram account and copy address of profil
 
 Attention:
 Application doesn't download the files from private accounts.
+
+You have no need of downloading all photos and other stuffs 
+JUST DOWNLOAD THE "INSTASAVE.JAR" and enjoy it.
